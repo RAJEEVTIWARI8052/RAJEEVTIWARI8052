@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Competitive Programmer | Open Source Enthusiast
 
-I am a Computer Science student at **MJP Rohilkhand University** with a passion for building scalable web applications and solving complex algorithmic challenges. Currently, I'm focusing on **AI Agents** and contributing to open-source projects like **omegaUp**.
+I am a B.Tech Computer Science student at **MJP Rohilkhand University** passionate about building scalable web applications and solving complex algorithmic challenges. Currently, I'm focusing on **AI Agents** and contributing to open-source projects like **omegaUp**.
 
 ---
 
@@ -18,40 +18,42 @@ I am a Computer Science student at **MJP Rohilkhand University** with a passion 
 ---
 
 ### 🏆 Competitive Programming
-I enjoy the thrill of problem-solving. You can find me on:
-* **LeetCode:** [Solve Count/Profile Link]
-* **CodeChef:** [Rating/Profile Link]
-* **Codeforces:** [Handle/Profile Link]
-* **GeeksforGeeks:** [Points/Profile Link]
+I actively solve problems and participate in contests across several platforms:
+* **LeetCode:** [RAJEEVTIWARI8052](https://leetcode.com/RAJEEVTIWARI8052)
+* **CodeChef:** [rajeev_8052](https://www.codechef.com/users/rajeev_8052)
+* **Codeforces:** [rajeevtiwari8052](https://codeforces.com/profile/rajeevtiwari8052)
 
 ---
 
 ### 🛠️ Featured Projects
 
-#### [The Wellness Hub](https://github.com/your-repo)
-* A full-stack fitness application built with **Next.js** and **TypeScript**.
-* Features health tracking and personalized wellness insights.
+#### 🌟 [The Wellness Hub](https://github.com/RAJEEVTIWARI8052/The-Wellness-Hub)
+A full-stack fitness application built with **Next.js** and **TypeScript**. It features health tracking and personalized wellness insights.
 
-#### [AI-Course Generator](https://github.com/your-repo)
-* An automated learning tool using **React.js** and **AI integration** to generate curriculum on demand.
+#### 🤖 [AI-Course Generator](https://github.com/RAJEEVTIWARI8052/AI-Course-Generator)
+An automated learning tool using **React.js** and **AI integration** to generate curriculum on demand.
 
-#### [Sentiment Analyzer](https://github.com/your-repo)
-* A Python-based tool using **Flask** to analyze emotional tone in text data.
+#### 📈 [Sentiment Analyzer](https://github.com/RAJEEVTIWARI8052/Sentiment-Analyzer)
+A Python-based tool using **Flask** to analyze emotional tone in text data.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="Rajeev's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAJEEVTIWARI8052&show_icons=true&theme=tokyonight&count_private=true" alt="Rajeev's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVTIWARI8052&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJEEVTIWARI8052&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
-* 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-* 📧 [Email Me](mailto:your-email@example.com)
-* ✍️ Looking for: **Tech Internships & Open Source Collaborations**
+* 💼 **LinkedIn:** [linkedin.com/in/rajeevkumartiwari](https://linkedin.com/in/rajeevkumartiwari)
+* 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1USUmdYgtc9D8XlSr2JXS7Jpu_KxnCwUr/view?usp=drive_link)
+* 📧 **Email:** [rajtiwari1448@gmail.com](mailto:rajtiwari1448@gmail.com)
 
----
+<p align="right">(<a href="#top">back to top</a>)</p>
