@@ -19,7 +19,7 @@ I'm a B.Tech Computer Science student at **MJP Rohilkhand University**, focused 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,docker,git,linux&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,docker,git,linux,postgres&theme=dark&perline=7" />
   </a>
 </div>
 
@@ -46,30 +46,31 @@ I'm a B.Tech Computer Science student at **MJP Rohilkhand University**, focused 
 
 ---
 
-## 🏆 Competitive Arena
+## 🏆 Competitive Arena (ICPC '25 Institute Topper)
 
 <div align="center">
-  <a href="https://leetcode.com/RAJEEVTIWARI8052"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/rajeevtiwari8052"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/rajeev_8052"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/RAJEEV_KUMAR_TIWARI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/RAJEEV_KUMAR_TIWARI"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/heavy_eagle_70"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/rajtiwa8avt"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </div>
 
 ---
 
 ## 🚀 Featured Deployments
 
-| 🌟 Project | 🧩 Stack | 📝 Detail |
-| :--- | :--- | :--- |
-| **[The Wellness Hub](https://github.com/RAJEEVTIWARI8052/The-Wellness-Hub)** | `Next.js` `TypeScript` | Full-stack health tracking & personalized wellness insights. |
-| **[AI-Course Generator](https://github.com/RAJEEVTIWARI8052/AI-Course-Generator)** | `React.js` `AI API` | Automated curriculum generation using artificial intelligence. |
-| **[Sentiment Analyzer](https://github.com/RAJEEVTIWARI8052/Sentiment-Analyzer)** | `Python` `Flask` | NLP tool for emotional tone mapping in text data. |
+| 🌟 Project | 🧩 Stack | 📝 Detail | 🌐 Links |
+| :--- | :--- | :--- | :--- |
+| **The Wellness Hub** | `Next.js` `TypeScript` | Full-stack health tracking & personalized wellness insights. | [💻 Repo](https://github.com/RAJEEVTIWARI8052/The-Wellness-Hub) <br> [🚀 Live Demo](https://fitverse-xi.vercel.app/) |
+| **AI-Course Generator** | `React.js` `PostgreSQL` | Automated curriculum generation using artificial intelligence. | [💻 Repo](https://github.com/RAJEEVTIWARI8052/AI-Course-Generator) <br> [🚀 Live Demo](https://rverse-ai-course-generator-five.vercel.app/) |
+| **Sentiment Analyzer** | `Python` `Flask` | NLP tool for emotional tone mapping in live text data. | [💻 Repo](https://github.com/RAJEEVTIWARI8052/Sentiment-Analyzer) <br> [🚀 Live Demo](https://sentiment-analyzer-theta.vercel.app/) |
 
 ---
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/rajeevkumartiwari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rajeevkumartiwari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rajtiwari1448@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1USUmdYgtc9D8XlSr2JXS7Jpu_KxnCwUr/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </div>
