@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Rajeev%20Tiwari&fontSize=80&fontAlignY=35&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Rajeev%20Tiwari&fontSize=80&fontAlignY=35&animation=twinkling&desc=Welcome%20to%20my%20profile!&descAlignY=55&descAlign=62" width="100%" />
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+|+AI+Agents;Competitive+Programmer;Open+Source+Enthusiast+@+omegaUp" alt="Typing SVG" />
@@ -86,5 +86,5 @@ I'm a B.Tech Computer Science student at **MJP Rohilkhand University**, focused 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </p>
