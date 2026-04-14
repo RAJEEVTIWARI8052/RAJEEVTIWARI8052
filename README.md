@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rajeev%20Kumar%20Tiwari&fontSize=70&fontAlignY=35&animation=twinkling" width="100%" />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+|+AI+Agents;Competitive+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
+  <h1>Hi there, I'm Rajeev Kumar Tiwari 👋</h1>
+  <h3>Full-Stack Developer | Competitive Programmer | AI Enthusiast</h3>
+  <p>B.Tech Computer Science student at MJP Rohilkhand University building scalable web applications and exploring autonomous AI agents.</p>
+
+  <a href="https://www.linkedin.com/in/rajeevkumartiwari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rajtiwari1448@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1USUmdYgtc9D8XlSr2JXS7Jpu_KxnCwUr/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 </div>
 
-## 🌌 About My Orbit
-I'm a B.Tech Computer Science student at **MJP Rohilkhand University**, focused on building scalable web applications, solving complex algorithmic challenges, and exploring the frontiers of **Autonomous AI Agents**.
+<br>
 
+## 🌌 About My Orbit
 - 🧠 **Thinking about:** System Design, AI integration, and optimized algorithms.
 - 💻 **Currently building:** Smarter tools for automated learning and wellness.
 - ⚡ **Fun fact:** I can debug my code, but I can't debug my sleep schedule.
@@ -17,42 +19,36 @@ I'm a B.Tech Computer Science student at **MJP Rohilkhand University**, focused 
 
 ## 🛠️ Essential Tech Galaxy
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,docker,git,linux,postgres&theme=dark&perline=7" />
-  </a>
-</div>
+**Languages & Core:** ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Tools & Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 Contribution Analytics & Stats
+## 🏆 Competitive Arena
+
+**ICPC 2025 Institute Topper** | **Specialist on Codeforces**
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=RAJEEVTIWARI8052&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=38B2AC" height="170px" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVTIWARI8052&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=38B2AC&hide=html,css" height="170px" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJEEVTIWARI8052&theme=tokyonight&background=0D1117&border=00000000" width="100%" />
-</div>
-
----
-
-## 🏆 Competitive Arena (ICPC '25 Institute Topper)
-
-<div align="center">
-  <a href="https://leetcode.com/u/RAJEEV_KUMAR_TIWARI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/RAJEEV_KUMAR_TIWARI"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/heavy_eagle_70"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/rajtiwa8avt"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/RAJEEV_KUMAR_TIWARI/"><img src="https://img.shields.io/badge/LeetCode_1586-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/RAJEEV_K_TIWARI"><img src="https://img.shields.io/badge/Codeforces_1414-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/rajtiwa8avt"><img src="https://img.shields.io/badge/GeeksforGeeks_1544-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.codechef.com/users/heavy_eagle_70"><img src="https://img.shields.io/badge/CodeChef_1344-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
 </div>
 
 ---
@@ -67,14 +63,6 @@ I'm a B.Tech Computer Science student at **MJP Rohilkhand University**, focused 
 
 ---
 
-## 📫 Let's Connect!
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/rajeevkumartiwari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rajtiwari1448@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1USUmdYgtc9D8XlSr2JXS7Jpu_KxnCwUr/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <i>"Writing clean code and building scalable systems."</i>
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
