@@ -7,7 +7,7 @@
 </div>
 
 ## 🌌 About My Orbit
-I'm a B.Tech Computer Science student at **MJP Rohilkhand University**. I specialize in building scalable web applications, solving complex algorithmic challenges, and exploring the frontiers of **Autonomous AI Agents**.
+I'm a B.Tech Computer Science student at **MJP Rohilkhand University**, focused on building scalable web applications, solving complex algorithmic challenges, and exploring the frontiers of **Autonomous AI Agents**.
 
 - 🧠 **Thinking about:** System Design, AI integration, and optimized algorithms.
 - 💻 **Currently building:** Smarter tools for automated learning and wellness.
@@ -15,7 +15,7 @@ I'm a B.Tech Computer Science student at **MJP Rohilkhand University**. I specia
 
 ---
 
-## 🛠️ The 3D Tech Hologram
+## 🛠️ Essential Tech Galaxy
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -25,15 +25,9 @@ I'm a B.Tech Computer Science student at **MJP Rohilkhand University**. I specia
 
 ---
 
-## 🎲 3D Contribution Matrix & Stats
-
-*(Note: To see the 3D Isometric Graph here, follow the GitHub Action setup instructions at the bottom of this README!)*
+## 📊 Contribution Analytics & Stats
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Isometric GitHub Graph" width="100%" onerror="this.style.display='none'"/>
-  
-  <br/>
-
   <table border="0">
     <tr>
       <td align="center">
@@ -70,9 +64,9 @@ I'm a B.Tech Computer Science student at **MJP Rohilkhand University**. I specia
 
 ---
 
-## 🐍 Activity Snake 
+## 🐍 Activity Snake
 
-*(Watch the snake eat my contribution graph!)*
+*(Watch the snake slither through my contribution history!)*
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAJEEVTIWARI8052/RAJEEVTIWARI8052/output/github-contribution-grid-snake-dark.svg">
