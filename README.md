@@ -1,59 +1,96 @@
-# Hi there, I'm Rajeev 👋 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Rajeev%20Tiwari&fontSize=80&fontAlignY=35&animation=twinkling" width="100%" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+|+AI+Agents;Competitive+Programmer;Open+Source+Enthusiast+@+omegaUp" alt="Typing SVG" />
+  </a>
+</div>
 
-### Full-Stack Developer | Competitive Programmer | Open Source Enthusiast
+## 🌌 About My Orbit
+I'm a B.Tech Computer Science student at **MJP Rohilkhand University**. I specialize in building scalable web applications, solving complex algorithmic challenges, and exploring the frontiers of **Autonomous AI Agents**.
 
-I am a B.Tech Computer Science student at **MJP Rohilkhand University** passionate about building scalable web applications and solving complex algorithmic challenges. Currently, I'm focusing on **AI Agents** and contributing to open-source projects like **omegaUp**.
-
----
-
-### 🚀 Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **Tools/OS** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) |
+- 🧠 **Thinking about:** System Design, AI integration, and optimized algorithms.
+- 💻 **Currently building:** Smarter tools for automated learning and wellness.
+- ⚡ **Fun fact:** I can debug my code, but I can't debug my sleep schedule.
 
 ---
 
-### 🏆 Competitive Programming
-I actively solve problems and participate in contests across several platforms:
-* **LeetCode:** [RAJEEVTIWARI8052](https://leetcode.com/RAJEEVTIWARI8052)
-* **CodeChef:** [rajeev_8052](https://www.codechef.com/users/rajeev_8052)
-* **Codeforces:** [rajeevtiwari8052](https://codeforces.com/profile/rajeevtiwari8052)
+## 🛠️ The 3D Tech Hologram
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,docker,git,linux&theme=dark&perline=7" />
+  </a>
+</div>
 
 ---
 
-### 🛠️ Featured Projects
+## 🎲 3D Contribution Matrix & Stats
 
-#### 🌟 [The Wellness Hub](https://github.com/RAJEEVTIWARI8052/The-Wellness-Hub)
-A full-stack fitness application built with **Next.js** and **TypeScript**. It features health tracking and personalized wellness insights.
+*(Note: To see the 3D Isometric Graph here, follow the GitHub Action setup instructions at the bottom of this README!)*
 
-#### 🤖 [AI-Course Generator](https://github.com/RAJEEVTIWARI8052/AI-Course-Generator)
-An automated learning tool using **React.js** and **AI integration** to generate curriculum on demand.
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Isometric GitHub Graph" width="100%" onerror="this.style.display='none'"/>
+  
+  <br/>
 
-#### 📈 [Sentiment Analyzer](https://github.com/RAJEEVTIWARI8052/Sentiment-Analyzer)
-A Python-based tool using **Flask** to analyze emotional tone in text data.
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=RAJEEVTIWARI8052&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=38B2AC" height="170px" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVTIWARI8052&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=38B2AC&hide=html,css" height="170px" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJEEVTIWARI8052&theme=tokyonight&background=0D1117&border=00000000" width="100%" />
+</div>
 
 ---
 
-### 📈 GitHub Stats & Activity
+## 🏆 Competitive Arena
+
+<div align="center">
+  <a href="https://leetcode.com/RAJEEVTIWARI8052"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/rajeevtiwari8052"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/rajeev_8052"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+</div>
+
+---
+
+## 🚀 Featured Deployments
+
+| 🌟 Project | 🧩 Stack | 📝 Detail |
+| :--- | :--- | :--- |
+| **[The Wellness Hub](https://github.com/RAJEEVTIWARI8052/The-Wellness-Hub)** | `Next.js` `TypeScript` | Full-stack health tracking & personalized wellness insights. |
+| **[AI-Course Generator](https://github.com/RAJEEVTIWARI8052/AI-Course-Generator)** | `React.js` `AI API` | Automated curriculum generation using artificial intelligence. |
+| **[Sentiment Analyzer](https://github.com/RAJEEVTIWARI8052/Sentiment-Analyzer)** | `Python` `Flask` | NLP tool for emotional tone mapping in text data. |
+
+---
+
+## 🐍 Activity Snake 
+
+*(Watch the snake eat my contribution graph!)*
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAJEEVTIWARI8052/RAJEEVTIWARI8052/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAJEEVTIWARI8052/RAJEEVTIWARI8052/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RAJEEVTIWARI8052/RAJEEVTIWARI8052/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none'">
+  </picture>
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/rajeevkumartiwari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rajtiwari1448@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1USUmdYgtc9D8XlSr2JXS7Jpu_KxnCwUr/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJEEVTIWARI8052&show_icons=true&theme=tokyonight&count_private=true" alt="Rajeev's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVTIWARI8052&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJEEVTIWARI8052&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Let's Connect!
-* 💼 **LinkedIn:** [linkedin.com/in/rajeevkumartiwari](https://linkedin.com/in/rajeevkumartiwari)
-* 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1USUmdYgtc9D8XlSr2JXS7Jpu_KxnCwUr/view?usp=drive_link)
-* 📧 **Email:** [rajtiwari1448@gmail.com](mailto:rajtiwari1448@gmail.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
