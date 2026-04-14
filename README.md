@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Rajeev%20Tiwari&fontSize=80&fontAlignY=35&animation=twinkling&desc=Welcome%20to%20my%20profile!&descAlignY=55&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rajeev%20Tiwari&fontSize=80&fontAlignY=35&animation=twinkling" width="100%" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+|+AI+Agents;Competitive+Programmer;Open+Source+Enthusiast+@+omegaUp" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+|+AI+Agents;Competitive+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -39,6 +39,8 @@ I'm a B.Tech Computer Science student at **MJP Rohilkhand University**, focused 
     </tr>
   </table>
   
+  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJEEVTIWARI8052&theme=tokyonight&background=0D1117&border=00000000" width="100%" />
 </div>
 
@@ -64,19 +66,6 @@ I'm a B.Tech Computer Science student at **MJP Rohilkhand University**, focused 
 
 ---
 
-## 🐍 Activity Snake
-
-*(Watch the snake slither through my contribution history!)*
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAJEEVTIWARI8052/RAJEEVTIWARI8052/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAJEEVTIWARI8052/RAJEEVTIWARI8052/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RAJEEVTIWARI8052/RAJEEVTIWARI8052/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none'">
-  </picture>
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -86,5 +75,5 @@ I'm a B.Tech Computer Science student at **MJP Rohilkhand University**, focused 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
