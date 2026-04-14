@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Rajeev Kumar Tiwari 👋</h1>
   <h3>Full-Stack Developer | Competitive Programmer | AI Enthusiast</h3>
-  <p>B.Tech Computer Science student at MJP Rohilkhand University building scalable web applications and exploring autonomous AI agents.</p>
+  [cite_start]<p>B.Tech Computer Science student at MJP Rohilkhand University building scalable web applications and exploring autonomous AI agents[cite: 1].</p>
 
   <a href="https://www.linkedin.com/in/rajeevkumartiwari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rajtiwari1448@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -12,7 +12,7 @@
 
 ## 🌌 About My Orbit
 - 🧠 **Thinking about:** System Design, AI integration, and optimized algorithms.
-- 💻 **Currently building:** Smarter tools for automated learning and wellness.
+- [cite_start]💻 **Currently building:** Smarter tools for automated learning and wellness[cite: 1].
 - ⚡ **Fun fact:** I can debug my code, but I can't debug my sleep schedule.
 
 ---
@@ -42,10 +42,10 @@
 
 ## 🏆 Competitive Arena
 
-**ICPC 2025 Institute Topper** | **Specialist on Codeforces**
+[cite_start]**ICPC 2025 Institute Topper [cite: 1]** | [cite_start]**Specialist on Codeforces [cite: 1]**
 
 <div align="center">
-  <a href="https://leetcode.com/u/RAJEEV_KUMAR_TIWARI/"><img src="https://img.shields.io/badge/LeetCode_1586-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/RAJEEV_K_TIWARI/"><img src="https://img.shields.io/badge/LeetCode_1586-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://codeforces.com/profile/RAJEEV_K_TIWARI"><img src="https://img.shields.io/badge/Codeforces_1414-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://www.geeksforgeeks.org/profile/rajtiwa8avt"><img src="https://img.shields.io/badge/GeeksforGeeks_1544-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
   <a href="https://www.codechef.com/users/heavy_eagle_70"><img src="https://img.shields.io/badge/CodeChef_1344-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
@@ -57,9 +57,9 @@
 
 | 🌟 Project | 🧩 Stack | 📝 Detail | 🌐 Links |
 | :--- | :--- | :--- | :--- |
-| **The Wellness Hub** | `Next.js` `TypeScript` | Full-stack health tracking & personalized wellness insights. | [💻 Repo](https://github.com/RAJEEVTIWARI8052/The-Wellness-Hub) <br> [🚀 Live Demo](https://fitverse-xi.vercel.app/) |
-| **AI-Course Generator** | `React.js` `PostgreSQL` | Automated curriculum generation using artificial intelligence. | [💻 Repo](https://github.com/RAJEEVTIWARI8052/AI-Course-Generator) <br> [🚀 Live Demo](https://rverse-ai-course-generator-five.vercel.app/) |
-| **Sentiment Analyzer** | `Python` `Flask` | NLP tool for emotional tone mapping in live text data. | [💻 Repo](https://github.com/RAJEEVTIWARI8052/Sentiment-Analyzer) <br> [🚀 Live Demo](https://sentiment-analyzer-theta.vercel.app/) |
+| **The Wellness Hub** | `Next.js` `TypeScript` | [cite_start]Full-stack health tracking & personalized wellness insights[cite: 1]. | [💻 Repo](https://github.com/RAJEEVTIWARI8052/The-Wellness-Hub) <br> [🚀 Live Demo](https://fitverse-xi.vercel.app/) |
+| **AI-Course Generator** | `React.js` `PostgreSQL` | [cite_start]Automated curriculum generation using artificial intelligence[cite: 1]. | [💻 Repo](https://github.com/RAJEEVTIWARI8052/AI-Course-Generator) <br> [🚀 Live Demo](https://rverse-ai-course-generator-five.vercel.app/) |
+| **Sentiment Analyzer** | `Python` `Flask` | [cite_start]NLP tool for emotional tone mapping in live text data[cite: 1]. | [💻 Repo](https://github.com/RAJEEVTIWARI8052/Sentiment-Analyzer) <br> [🚀 Live Demo](https://sentiment-analyzer-theta.vercel.app/) |
 
 ---
 
