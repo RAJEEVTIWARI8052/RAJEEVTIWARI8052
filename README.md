@@ -1,17 +1,11 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--              ULTRA HERO BANNER                            -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,16,24&height=280&section=header&text=RAJEEV%20KUMAR%20TIWARI&fontSize=50&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20ICPC%20Champion%20%E2%80%A2%20Flutter%20Builder&descAlignY=58&descSize=17&descColor=90cdf4&stroke=38B2AC&strokeWidth=2" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,16,24&height=280&section=header&text=RAJEEV%20KUMAR%20TIWARI&fontSize=50&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20ICPC%20Champion%20%E2%80%A2%20Flutter%20Builder&descAlignY=58&descSize=17&descColor=90cdf4&reversal=false&stroke=38B2AC&strokeWidth=2" width="100%"/>
-
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=⚡+Building+AI+Agents+%26+Full-Stack+Apps;🏆+ICPC+2025+Institute+Topper;📱+Flutter+%26+Cross-Platform+Experiences;🤝+Open+Source+%7C+Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Building+AI+Agents+%26+Full-Stack+Apps;%F0%9F%8F%86+ICPC+2025+Institute+Topper;%F0%9F%93%B1+Flutter+%26+Cross-Platform+Experiences;%F0%9F%A4%9D+Open+Source+%7C+Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Live Status Badges -->
 ![Status](https://img.shields.io/badge/🔥_Status-Open_to_Internships-38B2AC?style=flat-square)
 &nbsp;
 ![University](https://img.shields.io/badge/🎓-MJP_Rohilkhand_University-667eea?style=flat-square)
@@ -112,8 +106,7 @@
 <tr>
 <td width="33%" valign="top">
 
-<h3>🧘 The Wellness Hub</h3>
-
+### 🧘 The Wellness Hub
 > *Your AI-powered health companion*
 
 **Stack:**
@@ -132,8 +125,7 @@ Full-stack health tracking platform with personalized AI-powered wellness insigh
 </td>
 <td width="33%" valign="top">
 
-<h3>🤖 AI-Course Generator</h3>
-
+### 🤖 AI-Course Generator
 > *Learn anything, powered by AI*
 
 **Stack:**
@@ -152,8 +144,7 @@ Automated curriculum generation — input a topic, get a full structured course 
 </td>
 <td width="33%" valign="top">
 
-<h3>🧠 Sentiment Analyzer</h3>
-
+### 🧠 Sentiment Analyzer
 > *Understand the emotion behind words*
 
 **Stack:**
@@ -197,7 +188,7 @@ Real-time emotional tone mapping — visualizes polarity, subjectivity & mood sc
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RAJEEVTIWARI8052&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RAJEEVTIWARI8052&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
