@@ -183,11 +183,13 @@ Real-time emotional tone mapping — visualizes polarity, subjectivity & mood sc
 </div>
 
 ---
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats & Achievements
 
 <div align="center">
 
-<img src="https://gh-trophies.vercel.app/?username=RAJEEVTIWARI8052&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RAJEEVTIWARI8052&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=f093fb&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVTIWARI8052&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=c9d1d9&langs_count=8" height="180"/>
 
 </div>
 ---
