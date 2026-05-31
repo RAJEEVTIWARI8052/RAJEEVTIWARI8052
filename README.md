@@ -183,13 +183,15 @@ Real-time emotional tone mapping — visualizes polarity, subjectivity & mood sc
 </div>
 
 ---
-## 🏆 GitHub Stats & Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAJEEVTIWARI8052&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=f093fb&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVTIWARI8052&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=c9d1d9&langs_count=8" height="180"/>
+![ICPC](https://img.shields.io/badge/🥇_ICPC_2025-Institute_Topper-gold?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-38B2AC?style=for-the-badge&logo=github)
+![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-f093fb?style=for-the-badge)
+![AI Engineer](https://img.shields.io/badge/AI-Engineer-FF9A00?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-Builder-02569B?style=for-the-badge&logo=flutter)
 
 </div>
 ---
