@@ -186,12 +186,12 @@ Real-time emotional tone mapping — visualizes polarity, subjectivity & mood sc
 
 ## 🏆 GitHub Trophies
 
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RAJEEVTIWARI8052&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=RAJEEVTIWARI8052&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
